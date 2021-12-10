@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## WHO AM I
 
-You can use the [editor on GitHub](https://github.com/GayonP/Priyanka_Gayon/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Scaled Agile- SAFe 5.0, SAFe Scrum Master, Prince2 certified professional with proven experience of planning, controlling, executing, and 
+monitoring complex Transition & Transformation Projects & Programs. Domain expertise in driving operational process & procedures for IT
+Product & Services with cross-functional teams to facilitate timely completion while adhering to approved budget. Innovative & 
+Entrepreneurial approach to create solutions. Fluent communicator to develop and manage partnerships across all levels (Internal 
+Management, Clients, Vendors) in the organisation globally. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Experience
+# Scrum Master- Business Intelligence Transformation (Apr 21- Present)
+Implemented data platform solution in collaboration with Vodafone group and Google Cloud- [Nucleus](https://www.vodafone.com/news/press-release/vodafone-google-cloud-industry-first-global-data-platform) for Vodafone DE to validate cloud data warehouse is the foundation for digital future of BI data management.
 
-### Markdown
+# Transition Manager- Transition Management (2019 – Mar 21)
+Delivered multiple capability set-up projects for Vodafone Local Markets across Europe in Shared Services India and successfully 
+transitioned 300+ FTEs
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Project Manager- Business Process Transformation (2017 – 2019)
+Delivered Business Transformation program to align people, processes and technology for competitive advantage and sustained growth across 
+Europe, India & Egypt Vodafone Technology centers covering 10,000 employees.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/GayonP/Priyanka_Gayon/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# Demand & Project Specialist- Analytics Solution Development (2015 – 2018)
+Delivered strategic analytics programme for Vodafone Shared Services- Operational Analytics (Log Analytics, Ticket Reporting. 
+Event Analytics) and Organizational Analytics (Team Performance Metrics, SLA’s etc.) and capabilities to support the initiatives.
